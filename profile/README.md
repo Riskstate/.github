@@ -57,7 +57,7 @@ The engines themselves are closed-source. These repos are the integration surfac
 
 ### Free, no key required
 
-[Risk Engine live view](https://riskstate.ai/risk-engine) · [Market Structure](https://api.riskstate.ai/structure) · [Playbooks](https://api.riskstate.ai/playbook) · [API demo](https://riskstate.ai/demo)
+[App](https://app.riskstate.ai) · [Market Structure](https://app.riskstate.ai/structure) · [Playbooks](https://app.riskstate.ai/playbooks) · [Risk Governor](https://app.riskstate.ai/risk-gate)
 
 Running a desk or a fund? The `/v2` endpoints aggregate risk across a whole book — portfolio limits, stress scenarios, expected shortfall, audit trail. See [institutional docs](https://riskstate.ai/docs/institutional).
 
