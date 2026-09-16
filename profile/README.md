@@ -1,7 +1,9 @@
-## RiskState — the risk layer for crypto
+## RiskState — decision and risk infrastructure for crypto capital
 
 Three independent engines, each answering a different question before a trade is placed.
 Deterministic, hash-audited, and callable by a human or an agent.
+
+**See them live, no key required:** [app.riskstate.ai](https://app.riskstate.ai) — intelligence, [market structure](https://app.riskstate.ai/structure), [playbooks](https://app.riskstate.ai/playbooks) and the [risk governor](https://app.riskstate.ai/risk-gate) for BTC/USD and ETH/USD.
 
 | Engine | The question it answers | Endpoint | Auth |
 |---|---|---|---|
